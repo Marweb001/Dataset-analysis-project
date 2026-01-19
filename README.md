@@ -1,2 +1,9 @@
-# Dataset-analysis-project
-Basic data analysis in python
+This project demonstrates:
+- File handling
+- Error handling
+- Functions
+- Loops
+- Conditional statements
+- Sets
+- Object-Oriented Programming (OOP)
+
