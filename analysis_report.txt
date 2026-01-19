@@ -1,0 +1,7 @@
+--- Analysis Report ---
+Total: 791.0
+Average: 79.1
+Minimum: 60.0
+Maximum: 95.0
+Performance: High Performance
+Unique Categories: 7
